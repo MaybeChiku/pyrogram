@@ -46,7 +46,7 @@ Source = "https://github.com/Mayuri-Chan/pyrofork"
 Documentation = "https://pyrofork.wulan17.top"
 
 [build-system]
-requires = ["hatchling", "packaging>=24.0"]
+requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project.optional-dependencies]
